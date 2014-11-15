@@ -1,0 +1,9 @@
+C:\Users\TheGrudge\documents\visual studio 2013\Projects\Homework02-PrimitiveDataTypes\16.HalfSum\bin\Debug\16.HalfSum.exe.config
+C:\Users\TheGrudge\documents\visual studio 2013\Projects\Homework02-PrimitiveDataTypes\16.HalfSum\bin\Debug\16.HalfSum.exe
+C:\Users\TheGrudge\documents\visual studio 2013\Projects\Homework02-PrimitiveDataTypes\16.HalfSum\bin\Debug\16.HalfSum.pdb
+C:\Users\TheGrudge\documents\visual studio 2013\Projects\Homework02-PrimitiveDataTypes\16.HalfSum\obj\Debug\16.HalfSum.exe
+C:\Users\TheGrudge\documents\visual studio 2013\Projects\Homework02-PrimitiveDataTypes\16.HalfSum\obj\Debug\16.HalfSum.pdb
+C:\Users\TheGrudge\documents\visual studio 2013\Projects\Homework02-PrimitiveDataTypes\16.HalfSum\obj\Debug\16.HalfSum.csprojResolveAssemblyReference.cache
+C:\Users\Tedi\Dropbox\Software University [SoftUni]\C# Basics [Mitko]\Homework02-PrimitiveDataTypes\16.HalfSum\bin\Debug\16.HalfSum.exe.config
+C:\Users\Tedi\Dropbox\Software University [SoftUni]\C# Basics [Mitko]\Homework02-PrimitiveDataTypes\16.HalfSum\obj\Debug\16.HalfSum.exe
+C:\Users\Tedi\Dropbox\Software University [SoftUni]\C# Basics [Mitko]\Homework02-PrimitiveDataTypes\16.HalfSum\obj\Debug\16.HalfSum.pdb

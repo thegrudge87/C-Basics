@@ -1,0 +1,9 @@
+c:\users\thegrudge\documents\visual studio 2013\Projects\Homework02-PrimitiveDataTypes\11.BankAccountData\bin\Debug\11.BankAccountData.exe.config
+c:\users\thegrudge\documents\visual studio 2013\Projects\Homework02-PrimitiveDataTypes\11.BankAccountData\obj\Debug\11.BankAccountData.csprojResolveAssemblyReference.cache
+c:\users\thegrudge\documents\visual studio 2013\Projects\Homework02-PrimitiveDataTypes\11.BankAccountData\bin\Debug\11.BankAccountData.exe
+c:\users\thegrudge\documents\visual studio 2013\Projects\Homework02-PrimitiveDataTypes\11.BankAccountData\bin\Debug\11.BankAccountData.pdb
+c:\users\thegrudge\documents\visual studio 2013\Projects\Homework02-PrimitiveDataTypes\11.BankAccountData\obj\Debug\11.BankAccountData.exe
+c:\users\thegrudge\documents\visual studio 2013\Projects\Homework02-PrimitiveDataTypes\11.BankAccountData\obj\Debug\11.BankAccountData.pdb
+C:\Users\Tedi\Dropbox\Software University [SoftUni]\C# Basics [Mitko]\Homework02-PrimitiveDataTypes\11.BankAccountData\bin\Debug\11.BankAccountData.exe.config
+C:\Users\Tedi\Dropbox\Software University [SoftUni]\C# Basics [Mitko]\Homework02-PrimitiveDataTypes\11.BankAccountData\obj\Debug\11.BankAccountData.exe
+C:\Users\Tedi\Dropbox\Software University [SoftUni]\C# Basics [Mitko]\Homework02-PrimitiveDataTypes\11.BankAccountData\obj\Debug\11.BankAccountData.pdb

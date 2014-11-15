@@ -1,0 +1,8 @@
+c:\users\thegrudge\documents\visual studio 2013\Projects\Homework02-PrimitiveDataTypes\10.EmployeeData\bin\Debug\10.EmployeeData.exe.config
+c:\users\thegrudge\documents\visual studio 2013\Projects\Homework02-PrimitiveDataTypes\10.EmployeeData\bin\Debug\10.EmployeeData.exe
+c:\users\thegrudge\documents\visual studio 2013\Projects\Homework02-PrimitiveDataTypes\10.EmployeeData\bin\Debug\10.EmployeeData.pdb
+c:\users\thegrudge\documents\visual studio 2013\Projects\Homework02-PrimitiveDataTypes\10.EmployeeData\obj\Debug\10.EmployeeData.exe
+c:\users\thegrudge\documents\visual studio 2013\Projects\Homework02-PrimitiveDataTypes\10.EmployeeData\obj\Debug\10.EmployeeData.pdb
+C:\Users\Tedi\Dropbox\Software University [SoftUni]\C# Basics [Mitko]\Homework02-PrimitiveDataTypes\10.EmployeeData\bin\Debug\10.EmployeeData.exe.config
+C:\Users\Tedi\Dropbox\Software University [SoftUni]\C# Basics [Mitko]\Homework02-PrimitiveDataTypes\10.EmployeeData\obj\Debug\10.EmployeeData.exe
+C:\Users\Tedi\Dropbox\Software University [SoftUni]\C# Basics [Mitko]\Homework02-PrimitiveDataTypes\10.EmployeeData\obj\Debug\10.EmployeeData.pdb

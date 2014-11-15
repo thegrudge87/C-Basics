@@ -1,0 +1,5 @@
+c:\users\thegrudge\documents\visual studio 2013\Projects\Homework02-PrimitiveDataTypes\02.FloatOrDouble\bin\Debug\02.FloatOrDouble.exe.config
+c:\users\thegrudge\documents\visual studio 2013\Projects\Homework02-PrimitiveDataTypes\02.FloatOrDouble\bin\Debug\02.FloatOrDouble.exe
+c:\users\thegrudge\documents\visual studio 2013\Projects\Homework02-PrimitiveDataTypes\02.FloatOrDouble\bin\Debug\02.FloatOrDouble.pdb
+c:\users\thegrudge\documents\visual studio 2013\Projects\Homework02-PrimitiveDataTypes\02.FloatOrDouble\obj\Debug\02.FloatOrDouble.exe
+c:\users\thegrudge\documents\visual studio 2013\Projects\Homework02-PrimitiveDataTypes\02.FloatOrDouble\obj\Debug\02.FloatOrDouble.pdb
