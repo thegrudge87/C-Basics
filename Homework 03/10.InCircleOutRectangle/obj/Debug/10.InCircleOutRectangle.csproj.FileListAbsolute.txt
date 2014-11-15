@@ -1,0 +1,6 @@
+C:\Users\TheGrudge\Documents\Visual Studio 2013\Projects\Homework.03-OperatorsAndStatements\10.InCircleOutRectangle\bin\Debug\10.InCircleOutRectangle.exe.config
+C:\Users\TheGrudge\Documents\Visual Studio 2013\Projects\Homework.03-OperatorsAndStatements\10.InCircleOutRectangle\bin\Debug\10.InCircleOutRectangle.exe
+C:\Users\TheGrudge\Documents\Visual Studio 2013\Projects\Homework.03-OperatorsAndStatements\10.InCircleOutRectangle\bin\Debug\10.InCircleOutRectangle.pdb
+C:\Users\TheGrudge\Documents\Visual Studio 2013\Projects\Homework.03-OperatorsAndStatements\10.InCircleOutRectangle\obj\Debug\10.InCircleOutRectangle.csprojResolveAssemblyReference.cache
+C:\Users\TheGrudge\Documents\Visual Studio 2013\Projects\Homework.03-OperatorsAndStatements\10.InCircleOutRectangle\obj\Debug\10.InCircleOutRectangle.exe
+C:\Users\TheGrudge\Documents\Visual Studio 2013\Projects\Homework.03-OperatorsAndStatements\10.InCircleOutRectangle\obj\Debug\10.InCircleOutRectangle.pdb
