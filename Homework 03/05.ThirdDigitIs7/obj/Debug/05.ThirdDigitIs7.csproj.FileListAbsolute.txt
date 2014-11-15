@@ -1,0 +1,5 @@
+c:\users\thegrudge\documents\visual studio 2013\Projects\Homework.03-OperatorsAndStatements\05.ThirdDigitIs7\bin\Debug\05.ThirdDigitIs7.exe.config
+c:\users\thegrudge\documents\visual studio 2013\Projects\Homework.03-OperatorsAndStatements\05.ThirdDigitIs7\bin\Debug\05.ThirdDigitIs7.exe
+c:\users\thegrudge\documents\visual studio 2013\Projects\Homework.03-OperatorsAndStatements\05.ThirdDigitIs7\bin\Debug\05.ThirdDigitIs7.pdb
+c:\users\thegrudge\documents\visual studio 2013\Projects\Homework.03-OperatorsAndStatements\05.ThirdDigitIs7\obj\Debug\05.ThirdDigitIs7.exe
+c:\users\thegrudge\documents\visual studio 2013\Projects\Homework.03-OperatorsAndStatements\05.ThirdDigitIs7\obj\Debug\05.ThirdDigitIs7.pdb

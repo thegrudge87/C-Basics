@@ -1,0 +1,5 @@
+c:\users\thegrudge\documents\visual studio 2013\Projects\Homework.03-OperatorsAndStatements\02.GravitaionOnTheMoon\bin\Debug\02.GravitaionOnTheMoon.exe.config
+c:\users\thegrudge\documents\visual studio 2013\Projects\Homework.03-OperatorsAndStatements\02.GravitaionOnTheMoon\bin\Debug\02.GravitaionOnTheMoon.exe
+c:\users\thegrudge\documents\visual studio 2013\Projects\Homework.03-OperatorsAndStatements\02.GravitaionOnTheMoon\bin\Debug\02.GravitaionOnTheMoon.pdb
+c:\users\thegrudge\documents\visual studio 2013\Projects\Homework.03-OperatorsAndStatements\02.GravitaionOnTheMoon\obj\Debug\02.GravitaionOnTheMoon.exe
+c:\users\thegrudge\documents\visual studio 2013\Projects\Homework.03-OperatorsAndStatements\02.GravitaionOnTheMoon\obj\Debug\02.GravitaionOnTheMoon.pdb

@@ -1,0 +1,5 @@
+c:\users\thegrudge\documents\visual studio 2013\Projects\Homework.03-OperatorsAndStatements\04.Rectangles\bin\Debug\04.Rectangles.exe.config
+c:\users\thegrudge\documents\visual studio 2013\Projects\Homework.03-OperatorsAndStatements\04.Rectangles\bin\Debug\04.Rectangles.exe
+c:\users\thegrudge\documents\visual studio 2013\Projects\Homework.03-OperatorsAndStatements\04.Rectangles\bin\Debug\04.Rectangles.pdb
+c:\users\thegrudge\documents\visual studio 2013\Projects\Homework.03-OperatorsAndStatements\04.Rectangles\obj\Debug\04.Rectangles.exe
+c:\users\thegrudge\documents\visual studio 2013\Projects\Homework.03-OperatorsAndStatements\04.Rectangles\obj\Debug\04.Rectangles.pdb

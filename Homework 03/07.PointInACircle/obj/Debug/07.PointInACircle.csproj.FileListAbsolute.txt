@@ -1,0 +1,6 @@
+c:\users\thegrudge\documents\visual studio 2013\Projects\Homework.03-OperatorsAndStatements\07.PointInACircle\bin\Debug\07.PointInACircle.exe.config
+c:\users\thegrudge\documents\visual studio 2013\Projects\Homework.03-OperatorsAndStatements\07.PointInACircle\bin\Debug\07.PointInACircle.exe
+c:\users\thegrudge\documents\visual studio 2013\Projects\Homework.03-OperatorsAndStatements\07.PointInACircle\bin\Debug\07.PointInACircle.pdb
+c:\users\thegrudge\documents\visual studio 2013\Projects\Homework.03-OperatorsAndStatements\07.PointInACircle\obj\Debug\07.PointInACircle.csprojResolveAssemblyReference.cache
+c:\users\thegrudge\documents\visual studio 2013\Projects\Homework.03-OperatorsAndStatements\07.PointInACircle\obj\Debug\07.PointInACircle.exe
+c:\users\thegrudge\documents\visual studio 2013\Projects\Homework.03-OperatorsAndStatements\07.PointInACircle\obj\Debug\07.PointInACircle.pdb
