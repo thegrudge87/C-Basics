@@ -1,0 +1,5 @@
+C:\Users\TheGrudge\documents\visual studio 2013\Projects\Homework.03-OperatorsAndStatements\12.ExtractBitFromInteger\bin\Debug\12.ExtractBitFromInteger.exe.config
+C:\Users\TheGrudge\documents\visual studio 2013\Projects\Homework.03-OperatorsAndStatements\12.ExtractBitFromInteger\bin\Debug\12.ExtractBitFromInteger.exe
+C:\Users\TheGrudge\documents\visual studio 2013\Projects\Homework.03-OperatorsAndStatements\12.ExtractBitFromInteger\bin\Debug\12.ExtractBitFromInteger.pdb
+C:\Users\TheGrudge\documents\visual studio 2013\Projects\Homework.03-OperatorsAndStatements\12.ExtractBitFromInteger\obj\Debug\12.ExtractBitFromInteger.exe
+C:\Users\TheGrudge\documents\visual studio 2013\Projects\Homework.03-OperatorsAndStatements\12.ExtractBitFromInteger\obj\Debug\12.ExtractBitFromInteger.pdb
