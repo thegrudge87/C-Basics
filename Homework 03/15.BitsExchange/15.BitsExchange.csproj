@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{66277F45-05C7-400E-8A38-4FCC6B2A0E62}</ProjectGuid>
+    <ProjectGuid>{9255B83D-7803-4103-9B1C-47B9D4AA272F}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_14.ModifyBitAtGivenPosition</RootNamespace>
-    <AssemblyName>14.ModifyBitAtGivenPosition</AssemblyName>
+    <RootNamespace>_15.BitsExchange</RootNamespace>
+    <AssemblyName>15.BitsExchange</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -41,7 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ModifyBitAtGivenPosition.cs" />
+    <Compile Include="BitsExchange.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

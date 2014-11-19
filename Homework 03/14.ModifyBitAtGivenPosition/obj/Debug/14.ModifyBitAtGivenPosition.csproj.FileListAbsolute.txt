@@ -1,1 +1,6 @@
 C:\Users\TheGrudge\Documents\Visual Studio 2013\Projects\Homework.03-OperatorsAndStatements\14.ModifyBitAtGivenPosition\bin\Debug\14.ModifyBitAtGivenPosition.exe.config
+C:\Users\TheGrudge\Documents\Visual Studio 2013\Projects\Homework.03-OperatorsAndStatements\14.ModifyBitAtGivenPosition\bin\Debug\14.ModifyBitAtGivenPosition.exe
+C:\Users\TheGrudge\Documents\Visual Studio 2013\Projects\Homework.03-OperatorsAndStatements\14.ModifyBitAtGivenPosition\bin\Debug\14.ModifyBitAtGivenPosition.pdb
+C:\Users\TheGrudge\Documents\Visual Studio 2013\Projects\Homework.03-OperatorsAndStatements\14.ModifyBitAtGivenPosition\obj\Debug\14.ModifyBitAtGivenPosition.csprojResolveAssemblyReference.cache
+C:\Users\TheGrudge\Documents\Visual Studio 2013\Projects\Homework.03-OperatorsAndStatements\14.ModifyBitAtGivenPosition\obj\Debug\14.ModifyBitAtGivenPosition.exe
+C:\Users\TheGrudge\Documents\Visual Studio 2013\Projects\Homework.03-OperatorsAndStatements\14.ModifyBitAtGivenPosition\obj\Debug\14.ModifyBitAtGivenPosition.pdb
