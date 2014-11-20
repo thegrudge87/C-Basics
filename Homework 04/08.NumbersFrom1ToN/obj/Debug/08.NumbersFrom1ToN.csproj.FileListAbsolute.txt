@@ -1,0 +1,5 @@
+C:\Users\TheGrudge\documents\visual studio 2013\Projects\Homework .04-ConsoleInputOutput\08.NumbersFrom1ToN\bin\Debug\08.NumbersFrom1ToN.exe.config
+C:\Users\TheGrudge\documents\visual studio 2013\Projects\Homework .04-ConsoleInputOutput\08.NumbersFrom1ToN\bin\Debug\08.NumbersFrom1ToN.exe
+C:\Users\TheGrudge\documents\visual studio 2013\Projects\Homework .04-ConsoleInputOutput\08.NumbersFrom1ToN\bin\Debug\08.NumbersFrom1ToN.pdb
+C:\Users\TheGrudge\documents\visual studio 2013\Projects\Homework .04-ConsoleInputOutput\08.NumbersFrom1ToN\obj\Debug\08.NumbersFrom1ToN.exe
+C:\Users\TheGrudge\documents\visual studio 2013\Projects\Homework .04-ConsoleInputOutput\08.NumbersFrom1ToN\obj\Debug\08.NumbersFrom1ToN.pdb
