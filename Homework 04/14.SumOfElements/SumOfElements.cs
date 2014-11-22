@@ -4,20 +4,21 @@ class SumOfElements
     static void Main()
     {
         string[] inputLine = Console.ReadLine().Split(' ');
-        int sum = 0;
-        int maxEl = 0;
-        foreach (var item in inputLine)
+        long sum = 0;
+        long maxEl = long.MinValue;
+        for (int i = 0; i < inputLine.Length; i++ )
         {
-            sum += int.Parse(item);
-            maxEl = (int)Math.Max(int.Parse(item), maxEl);
+            sum += long.Parse(inputLine[i]);
+            maxEl = (long)Math.Max(long.Parse(inputLine[i]), maxEl);
         }
-        if ((sum % 2 == 0) && sum / 2 == maxEl)
+
+        if (sum == 2 * maxEl)
         {
             Console.WriteLine("Yes, sum={0}", sum/2);
         }
         else
         {
-            Console.WriteLine("No, diff={0}", maxEl-(sum-maxEl));
+            Console.WriteLine("No, diff={0}", Math.Abs(maxEl-(sum-maxEl)));
         }
         
     }
