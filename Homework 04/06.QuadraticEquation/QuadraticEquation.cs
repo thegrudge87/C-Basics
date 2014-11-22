@@ -19,16 +19,13 @@ class QuadraticEquation
         {
             Console.WriteLine("no real roots");
         }
+        else if (discriminant == 0)
+        {
+            Console.WriteLine("x1 = x2 = {0:0.#}", -b / (2.0 * a)); 
+        }
         else
         {
-            if (discriminant == 0)
-            {
-                Console.WriteLine("x1 = x2 = {0:0.#}", -b / (2.0 * a)); 
-            }
-            else
-            {
-                Console.WriteLine("x1 = {0:0.#}; x2 = {1:0.#}", (-b - Math.Sqrt(discriminant)) / (2 * a), (-b + Math.Sqrt(discriminant)) / (2 * a));
-            }
+            Console.WriteLine("x1 = {0:0.#}; x2 = {1:0.#}", (-b - Math.Sqrt(discriminant)) / (2 * a), (-b + Math.Sqrt(discriminant)) / (2 * a));
         }
     }
 }
