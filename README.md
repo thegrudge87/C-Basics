@@ -1,6 +1,10 @@
 C-Basics
 ========
 Things that I've done for my course "C# Basics" in Software University.
+** Legend:
+- [ _ ] - not solved yet
+- [ - ] - no code should be written
+- [ x ] - problem solved
 
 |HW #1|Solved|HW #2| Sovled |HW #3|Solved|HW #4|Solved|
 |:-:|:-:|:----:|:-----:|:------:|:-----:|:------:|:-----:|
