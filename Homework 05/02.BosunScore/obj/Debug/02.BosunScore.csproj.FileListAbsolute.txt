@@ -1,0 +1,5 @@
+c:\users\thegrudge\documents\visual studio 2013\Projects\Homework.05-ConditionalStatements\02.BosunScore\bin\Debug\02.BosunScore.exe.config
+c:\users\thegrudge\documents\visual studio 2013\Projects\Homework.05-ConditionalStatements\02.BosunScore\bin\Debug\02.BosunScore.exe
+c:\users\thegrudge\documents\visual studio 2013\Projects\Homework.05-ConditionalStatements\02.BosunScore\bin\Debug\02.BosunScore.pdb
+c:\users\thegrudge\documents\visual studio 2013\Projects\Homework.05-ConditionalStatements\02.BosunScore\obj\Debug\02.BosunScore.exe
+c:\users\thegrudge\documents\visual studio 2013\Projects\Homework.05-ConditionalStatements\02.BosunScore\obj\Debug\02.BosunScore.pdb

@@ -1,0 +1,5 @@
+c:\users\thegrudge\documents\visual studio 2013\Projects\Homework.05-ConditionalStatements\03.CheckForPlayCard\bin\Debug\03.CheckForPlayCard.exe.config
+c:\users\thegrudge\documents\visual studio 2013\Projects\Homework.05-ConditionalStatements\03.CheckForPlayCard\bin\Debug\03.CheckForPlayCard.exe
+c:\users\thegrudge\documents\visual studio 2013\Projects\Homework.05-ConditionalStatements\03.CheckForPlayCard\bin\Debug\03.CheckForPlayCard.pdb
+c:\users\thegrudge\documents\visual studio 2013\Projects\Homework.05-ConditionalStatements\03.CheckForPlayCard\obj\Debug\03.CheckForPlayCard.exe
+c:\users\thegrudge\documents\visual studio 2013\Projects\Homework.05-ConditionalStatements\03.CheckForPlayCard\obj\Debug\03.CheckForPlayCard.pdb
