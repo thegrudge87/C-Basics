@@ -1,0 +1,6 @@
+c:\users\thegrudge\documents\visual studio 2013\Projects\Exam10April2014Morning\05.BitsInverter\bin\Debug\05.BitsInverter.exe.config
+c:\users\thegrudge\documents\visual studio 2013\Projects\Exam10April2014Morning\05.BitsInverter\bin\Debug\05.BitsInverter.exe
+c:\users\thegrudge\documents\visual studio 2013\Projects\Exam10April2014Morning\05.BitsInverter\bin\Debug\05.BitsInverter.pdb
+c:\users\thegrudge\documents\visual studio 2013\Projects\Exam10April2014Morning\05.BitsInverter\obj\Debug\05.BitsInverter.exe
+c:\users\thegrudge\documents\visual studio 2013\Projects\Exam10April2014Morning\05.BitsInverter\obj\Debug\05.BitsInverter.pdb
+c:\users\thegrudge\documents\visual studio 2013\Projects\Exam10April2014Morning\05.BitsInverter\obj\Debug\05.BitsInverter.csprojResolveAssemblyReference.cache
