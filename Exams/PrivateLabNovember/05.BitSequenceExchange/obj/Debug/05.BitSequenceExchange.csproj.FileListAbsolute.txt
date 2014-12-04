@@ -1,0 +1,6 @@
+c:\users\thegrudge\documents\visual studio 2013\Projects\PrivateLabNovember\05.BitSequenceExchange\bin\Debug\05.BitSequenceExchange.exe.config
+c:\users\thegrudge\documents\visual studio 2013\Projects\PrivateLabNovember\05.BitSequenceExchange\bin\Debug\05.BitSequenceExchange.exe
+c:\users\thegrudge\documents\visual studio 2013\Projects\PrivateLabNovember\05.BitSequenceExchange\bin\Debug\05.BitSequenceExchange.pdb
+c:\users\thegrudge\documents\visual studio 2013\Projects\PrivateLabNovember\05.BitSequenceExchange\obj\Debug\05.BitSequenceExchange.csprojResolveAssemblyReference.cache
+c:\users\thegrudge\documents\visual studio 2013\Projects\PrivateLabNovember\05.BitSequenceExchange\obj\Debug\05.BitSequenceExchange.exe
+c:\users\thegrudge\documents\visual studio 2013\Projects\PrivateLabNovember\05.BitSequenceExchange\obj\Debug\05.BitSequenceExchange.pdb

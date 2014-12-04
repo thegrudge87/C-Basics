@@ -1,0 +1,5 @@
+c:\users\thegrudge\documents\visual studio 2013\Projects\PrivateLabNovember\03.Bit-Copy\bin\Debug\03.Bit-Copy.exe.config
+c:\users\thegrudge\documents\visual studio 2013\Projects\PrivateLabNovember\03.Bit-Copy\bin\Debug\03.Bit-Copy.exe
+c:\users\thegrudge\documents\visual studio 2013\Projects\PrivateLabNovember\03.Bit-Copy\bin\Debug\03.Bit-Copy.pdb
+c:\users\thegrudge\documents\visual studio 2013\Projects\PrivateLabNovember\03.Bit-Copy\obj\Debug\03.Bit-Copy.exe
+c:\users\thegrudge\documents\visual studio 2013\Projects\PrivateLabNovember\03.Bit-Copy\obj\Debug\03.Bit-Copy.pdb

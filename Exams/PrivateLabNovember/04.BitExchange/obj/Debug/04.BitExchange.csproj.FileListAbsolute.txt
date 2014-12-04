@@ -1,0 +1,6 @@
+c:\users\thegrudge\documents\visual studio 2013\Projects\PrivateLabNovember\04.BitExchange\bin\Debug\04.BitExchange.exe.config
+c:\users\thegrudge\documents\visual studio 2013\Projects\PrivateLabNovember\04.BitExchange\bin\Debug\04.BitExchange.exe
+c:\users\thegrudge\documents\visual studio 2013\Projects\PrivateLabNovember\04.BitExchange\bin\Debug\04.BitExchange.pdb
+c:\users\thegrudge\documents\visual studio 2013\Projects\PrivateLabNovember\04.BitExchange\obj\Debug\04.BitExchange.csprojResolveAssemblyReference.cache
+c:\users\thegrudge\documents\visual studio 2013\Projects\PrivateLabNovember\04.BitExchange\obj\Debug\04.BitExchange.exe
+c:\users\thegrudge\documents\visual studio 2013\Projects\PrivateLabNovember\04.BitExchange\obj\Debug\04.BitExchange.pdb

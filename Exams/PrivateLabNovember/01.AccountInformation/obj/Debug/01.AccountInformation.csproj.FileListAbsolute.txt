@@ -1,0 +1,6 @@
+c:\users\thegrudge\documents\visual studio 2013\Projects\PrivateLabNovember\01.AccountInformation\bin\Debug\01.AccountInformation.exe.config
+c:\users\thegrudge\documents\visual studio 2013\Projects\PrivateLabNovember\01.AccountInformation\bin\Debug\01.AccountInformation.exe
+c:\users\thegrudge\documents\visual studio 2013\Projects\PrivateLabNovember\01.AccountInformation\bin\Debug\01.AccountInformation.pdb
+c:\users\thegrudge\documents\visual studio 2013\Projects\PrivateLabNovember\01.AccountInformation\obj\Debug\01.AccountInformation.csprojResolveAssemblyReference.cache
+c:\users\thegrudge\documents\visual studio 2013\Projects\PrivateLabNovember\01.AccountInformation\obj\Debug\01.AccountInformation.exe
+c:\users\thegrudge\documents\visual studio 2013\Projects\PrivateLabNovember\01.AccountInformation\obj\Debug\01.AccountInformation.pdb

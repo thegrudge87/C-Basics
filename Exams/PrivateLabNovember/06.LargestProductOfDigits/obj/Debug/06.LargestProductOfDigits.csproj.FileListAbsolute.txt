@@ -1,0 +1,5 @@
+c:\users\thegrudge\documents\visual studio 2013\Projects\PrivateLabNovember\06.LargestProductOfDigits\bin\Debug\06.LargestProductOfDigits.exe.config
+c:\users\thegrudge\documents\visual studio 2013\Projects\PrivateLabNovember\06.LargestProductOfDigits\bin\Debug\06.LargestProductOfDigits.exe
+c:\users\thegrudge\documents\visual studio 2013\Projects\PrivateLabNovember\06.LargestProductOfDigits\bin\Debug\06.LargestProductOfDigits.pdb
+c:\users\thegrudge\documents\visual studio 2013\Projects\PrivateLabNovember\06.LargestProductOfDigits\obj\Debug\06.LargestProductOfDigits.exe
+c:\users\thegrudge\documents\visual studio 2013\Projects\PrivateLabNovember\06.LargestProductOfDigits\obj\Debug\06.LargestProductOfDigits.pdb
