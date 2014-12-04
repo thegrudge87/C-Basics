@@ -1,0 +1,6 @@
+C:\Users\TheGrudge\documents\visual studio 2013\Projects\PrivateLabNovember\02.Num\bin\Debug\02.Num.exe.config
+C:\Users\TheGrudge\documents\visual studio 2013\Projects\PrivateLabNovember\02.Num\bin\Debug\02.Num.exe
+C:\Users\TheGrudge\documents\visual studio 2013\Projects\PrivateLabNovember\02.Num\bin\Debug\02.Num.pdb
+C:\Users\TheGrudge\documents\visual studio 2013\Projects\PrivateLabNovember\02.Num\obj\Debug\02.Nums.csprojResolveAssemblyReference.cache
+C:\Users\TheGrudge\documents\visual studio 2013\Projects\PrivateLabNovember\02.Num\obj\Debug\02.Num.exe
+C:\Users\TheGrudge\documents\visual studio 2013\Projects\PrivateLabNovember\02.Num\obj\Debug\02.Num.pdb

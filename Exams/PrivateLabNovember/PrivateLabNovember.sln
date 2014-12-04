@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.LargestProductOfDigits",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.ConsoleGraphics", "07.ConsoleGraphics\07.ConsoleGraphics.csproj", "{3C477B7E-441B-4C6F-B963-9438E089A7A9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Nums", "02.Num\02.Nums.csproj", "{84D5D4F9-ED0B-496A-8FD6-85A332FD5C88}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{3C477B7E-441B-4C6F-B963-9438E089A7A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3C477B7E-441B-4C6F-B963-9438E089A7A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3C477B7E-441B-4C6F-B963-9438E089A7A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84D5D4F9-ED0B-496A-8FD6-85A332FD5C88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84D5D4F9-ED0B-496A-8FD6-85A332FD5C88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84D5D4F9-ED0B-496A-8FD6-85A332FD5C88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84D5D4F9-ED0B-496A-8FD6-85A332FD5C88}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
