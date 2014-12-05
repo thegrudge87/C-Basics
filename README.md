@@ -35,21 +35,22 @@ Things that I've done for my course "C# Basics" in Software University.
 
 **Exams**:
 
-|Exam|Problem 1|Problem 2|Problem 3|Problem 4|Problem 5|
-|:---|:-------:|:-------:|:-------:|:-------:|:-------:|
-|C# Basics Exam 10 April 2014 Morning| [_] | [_] | [_] | [_] | [x] |
-|C# Basics Exam 10 April 2014 Evening| [_] | [_] | [_] | [_] | [_] |
-|C# Basics Exam 11 April 2014 Morning| [_] | [_] | [_] | [_] | [_] |
-|C# Basics Exam 11 April 2014 Evening| [_] | [_] | [_] | [_] | [_] |
-|C# Basics Exam 12 April 2014 Morning| [_] | [_] | [_] | [_] | [_] |
-|C# Basics Exam 12 April 2014 Evening| [_] | [_] | [_] | [_] | [_] |
-|C# Basics Exam 14 April 2014 Morning| [_] | [_] | [_] | [_] | [_] |
-|C# Basics Exam 14 April 2014 Evening| [_] | [_] | [_] | [_] | [_] |
-|C# Basics Exam 28 April 2014| [_] | [_] | [_] | [_] | [_] |
-|C# Basics Sample Exam May 2014| [_] | [_] | [_] | [_] | [_] |
-|C# Basics Exam 25 July 2014 Morning| [_] | [_] | [_] | [_] | [_] |
-|C# Basics Exam 25 July 2014 Evening| [_] | [_] | [_] | [_] | [_] |
-|C# Basics Exam 22 August 2014| [_] | [_] | [_] | [_] | [_] |
-|C# Basics Exam 26 August 2014| [_] | [_] | [_] | [_] | [_] |
-|C# Basics Exam 7 November 2014| [_] | [_] | [_] | [_] | [_] |
-|C# Basics Exam 8 November 2014| [_] | [_] | [_] | [_] | [_] |
+|Exam|Problem 1|Problem 2|Problem 3|Problem 4|Problem 5|Problem 6|Problem 7|Problem 8|
+|:---|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+|C# Basics Exam 10 April 2014 Morning| [_] | [_] | [_] | [_] | [x] ||||
+|C# Basics Exam 10 April 2014 Evening| [_] | [_] | [_] | [_] | [_] ||||
+|C# Basics Exam 11 April 2014 Morning| [_] | [_] | [_] | [_] | [_] ||||
+|C# Basics Exam 11 April 2014 Evening| [_] | [_] | [_] | [_] | [_] ||||
+|C# Basics Exam 12 April 2014 Morning| [_] | [_] | [_] | [_] | [_] ||||
+|C# Basics Exam 12 April 2014 Evening| [_] | [_] | [_] | [_] | [_] ||||
+|C# Basics Exam 14 April 2014 Morning| [_] | [_] | [_] | [_] | [_] ||||
+|C# Basics Exam 14 April 2014 Evening| [_] | [_] | [_] | [_] | [_] ||||
+|C# Basics Exam 28 April 2014| [_] | [_] | [_] | [_] | [_] ||||
+|C# Basics Sample Exam May 2014| [_] | [_] | [_] | [_] | [_] ||||
+|C# Basics Exam 25 July 2014 Morning| [_] | [_] | [_] | [_] | [_] ||||
+|C# Basics Exam 25 July 2014 Evening| [_] | [_] | [_] | [_] | [_] ||||
+|C# Basics Exam 22 August 2014| [_] | [_] | [_] | [_] | [_] ||||
+|C# Basics Exam 26 August 2014| [_] | [_] | [_] | [_] | [_] ||||
+|C# Basics Exam 7 November 2014| [_] | [_] | [_] | [_] | [_] ||||
+|C# Basics Exam 8 November 2014| [_] | [_] | [_] | [_] | [_] ||||
+|C# Basics November 2014 (Dec.03.14)|[x]|[x]|[x]|[x]|[x]|[x]|[x]|[x]|
