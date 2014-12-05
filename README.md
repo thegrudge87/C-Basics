@@ -35,8 +35,8 @@ Things that I've done for my course "C# Basics" in Software University.
 
 **C# Basics Exams**:
 
-|Exam|Problem 1|Problem 2|Problem 3|Problem 4|Problem 5|Problem 6|Problem 7|Problem 8|
-|:---|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+|Exam|Pr 1|Pr 2|Pr 3|Pr 4|Pr 5|Pr 6|Pr 7|Pr 8|
+|:---|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 |Exam 10 April 2014 Morning| [_] | [_] | [_] | [_] | [x] ||||
 |Exam 10 April 2014 Evening| [_] | [_] | [_] | [_] | [_] ||||
 |Exam 11 April 2014 Morning| [_] | [_] | [_] | [_] | [_] ||||
