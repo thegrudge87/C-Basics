@@ -1,0 +1,6 @@
+c:\users\thegrudge\documents\visual studio 2013\Projects\Exam10April2014Morning\04.NineDigitMagicNum\bin\Debug\04.NineDigitMagicNum.exe.config
+c:\users\thegrudge\documents\visual studio 2013\Projects\Exam10April2014Morning\04.NineDigitMagicNum\obj\Debug\04.NineDigitMagicNum.csprojResolveAssemblyReference.cache
+C:\Users\TheGrudge\documents\visual studio 2013\Projects\Exam10April2014Morning\04.NineDigitMagicNum\bin\Debug\04.NineDigitMagicNum.exe
+C:\Users\TheGrudge\documents\visual studio 2013\Projects\Exam10April2014Morning\04.NineDigitMagicNum\bin\Debug\04.NineDigitMagicNum.pdb
+C:\Users\TheGrudge\documents\visual studio 2013\Projects\Exam10April2014Morning\04.NineDigitMagicNum\obj\Debug\04.NineDigitMagicNum.exe
+C:\Users\TheGrudge\documents\visual studio 2013\Projects\Exam10April2014Morning\04.NineDigitMagicNum\obj\Debug\04.NineDigitMagicNum.pdb

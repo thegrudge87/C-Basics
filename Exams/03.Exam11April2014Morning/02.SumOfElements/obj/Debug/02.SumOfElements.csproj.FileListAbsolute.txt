@@ -1,0 +1,5 @@
+c:\users\thegrudge\documents\visual studio 2013\Projects\Exam11April2014Morning\02.SumOfElements\bin\Debug\02.SumOfElements.exe.config
+c:\users\thegrudge\documents\visual studio 2013\Projects\Exam11April2014Morning\02.SumOfElements\bin\Debug\02.SumOfElements.exe
+c:\users\thegrudge\documents\visual studio 2013\Projects\Exam11April2014Morning\02.SumOfElements\bin\Debug\02.SumOfElements.pdb
+c:\users\thegrudge\documents\visual studio 2013\Projects\Exam11April2014Morning\02.SumOfElements\obj\Debug\02.SumOfElements.exe
+c:\users\thegrudge\documents\visual studio 2013\Projects\Exam11April2014Morning\02.SumOfElements\obj\Debug\02.SumOfElements.pdb

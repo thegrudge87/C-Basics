@@ -1,0 +1,6 @@
+C:\Users\TheGrudge\documents\visual studio 2013\Projects\Exam10April2014Morning\02.HalfSum\bin\Debug\02.HalfSum.exe.config
+C:\Users\TheGrudge\documents\visual studio 2013\Projects\Exam10April2014Morning\02.HalfSum\bin\Debug\02.HalfSum.exe
+C:\Users\TheGrudge\documents\visual studio 2013\Projects\Exam10April2014Morning\02.HalfSum\bin\Debug\02.HalfSum.pdb
+C:\Users\TheGrudge\documents\visual studio 2013\Projects\Exam10April2014Morning\02.HalfSum\obj\Debug\02.HalfSum.csprojResolveAssemblyReference.cache
+C:\Users\TheGrudge\documents\visual studio 2013\Projects\Exam10April2014Morning\02.HalfSum\obj\Debug\02.HalfSum.exe
+C:\Users\TheGrudge\documents\visual studio 2013\Projects\Exam10April2014Morning\02.HalfSum\obj\Debug\02.HalfSum.pdb

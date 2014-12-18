@@ -1,0 +1,6 @@
+c:\users\thegrudge\documents\visual studio 2013\Projects\Exam11April2014Morning\05.BitSifting\bin\Debug\05.BitSifting.exe.config
+C:\Users\TheGrudge\documents\visual studio 2013\Projects\Exam11April2014Morning\05.BitSifting\bin\Debug\05.BitSifting.exe
+C:\Users\TheGrudge\documents\visual studio 2013\Projects\Exam11April2014Morning\05.BitSifting\bin\Debug\05.BitSifting.pdb
+C:\Users\TheGrudge\documents\visual studio 2013\Projects\Exam11April2014Morning\05.BitSifting\obj\Debug\05.BitSifting.csprojResolveAssemblyReference.cache
+C:\Users\TheGrudge\documents\visual studio 2013\Projects\Exam11April2014Morning\05.BitSifting\obj\Debug\05.BitSifting.exe
+C:\Users\TheGrudge\documents\visual studio 2013\Projects\Exam11April2014Morning\05.BitSifting\obj\Debug\05.BitSifting.pdb

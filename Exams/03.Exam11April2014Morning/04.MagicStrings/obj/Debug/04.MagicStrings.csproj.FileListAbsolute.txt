@@ -1,0 +1,6 @@
+c:\users\thegrudge\documents\visual studio 2013\Projects\Exam11April2014Morning\04.MagicStrings\bin\Debug\04.MagicStrings.exe.config
+c:\users\thegrudge\documents\visual studio 2013\Projects\Exam11April2014Morning\04.MagicStrings\bin\Debug\04.MagicStrings.exe
+c:\users\thegrudge\documents\visual studio 2013\Projects\Exam11April2014Morning\04.MagicStrings\bin\Debug\04.MagicStrings.pdb
+c:\users\thegrudge\documents\visual studio 2013\Projects\Exam11April2014Morning\04.MagicStrings\obj\Debug\04.MagicStrings.csprojResolveAssemblyReference.cache
+c:\users\thegrudge\documents\visual studio 2013\Projects\Exam11April2014Morning\04.MagicStrings\obj\Debug\04.MagicStrings.exe
+c:\users\thegrudge\documents\visual studio 2013\Projects\Exam11April2014Morning\04.MagicStrings\obj\Debug\04.MagicStrings.pdb

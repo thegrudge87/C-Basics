@@ -1,0 +1,6 @@
+c:\users\thegrudge\documents\visual studio 2013\Projects\Exam10April2014Evening\05.BitsUp\bin\Debug\05.BitsUp.exe.config
+c:\users\thegrudge\documents\visual studio 2013\Projects\Exam10April2014Evening\05.BitsUp\bin\Debug\05.BitsUp.exe
+c:\users\thegrudge\documents\visual studio 2013\Projects\Exam10April2014Evening\05.BitsUp\bin\Debug\05.BitsUp.pdb
+c:\users\thegrudge\documents\visual studio 2013\Projects\Exam10April2014Evening\05.BitsUp\obj\Debug\05.BitsUp.csprojResolveAssemblyReference.cache
+c:\users\thegrudge\documents\visual studio 2013\Projects\Exam10April2014Evening\05.BitsUp\obj\Debug\05.BitsUp.exe
+c:\users\thegrudge\documents\visual studio 2013\Projects\Exam10April2014Evening\05.BitsUp\obj\Debug\05.BitsUp.pdb

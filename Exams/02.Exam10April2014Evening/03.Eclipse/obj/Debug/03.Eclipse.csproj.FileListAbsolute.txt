@@ -1,0 +1,5 @@
+c:\users\thegrudge\documents\visual studio 2013\Projects\Exam10April2014Evening\03.Eclipse\bin\Debug\03.Eclipse.exe.config
+c:\users\thegrudge\documents\visual studio 2013\Projects\Exam10April2014Evening\03.Eclipse\bin\Debug\03.Eclipse.exe
+c:\users\thegrudge\documents\visual studio 2013\Projects\Exam10April2014Evening\03.Eclipse\bin\Debug\03.Eclipse.pdb
+c:\users\thegrudge\documents\visual studio 2013\Projects\Exam10April2014Evening\03.Eclipse\obj\Debug\03.Eclipse.exe
+c:\users\thegrudge\documents\visual studio 2013\Projects\Exam10April2014Evening\03.Eclipse\obj\Debug\03.Eclipse.pdb

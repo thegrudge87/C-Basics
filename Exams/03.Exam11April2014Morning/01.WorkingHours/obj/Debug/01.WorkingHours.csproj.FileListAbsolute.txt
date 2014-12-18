@@ -1,0 +1,6 @@
+c:\users\thegrudge\documents\visual studio 2013\Projects\Exam11April2014Morning\01.WorkingHours\bin\Debug\01.WorkingHours.exe.config
+c:\users\thegrudge\documents\visual studio 2013\Projects\Exam11April2014Morning\01.WorkingHours\bin\Debug\01.WorkingHours.exe
+c:\users\thegrudge\documents\visual studio 2013\Projects\Exam11April2014Morning\01.WorkingHours\bin\Debug\01.WorkingHours.pdb
+c:\users\thegrudge\documents\visual studio 2013\Projects\Exam11April2014Morning\01.WorkingHours\obj\Debug\01.WorkingHours.csprojResolveAssemblyReference.cache
+c:\users\thegrudge\documents\visual studio 2013\Projects\Exam11April2014Morning\01.WorkingHours\obj\Debug\01.WorkingHours.exe
+c:\users\thegrudge\documents\visual studio 2013\Projects\Exam11April2014Morning\01.WorkingHours\obj\Debug\01.WorkingHours.pdb

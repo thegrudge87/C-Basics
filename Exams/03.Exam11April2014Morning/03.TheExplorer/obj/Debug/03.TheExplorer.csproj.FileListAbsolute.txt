@@ -1,0 +1,6 @@
+c:\users\thegrudge\documents\visual studio 2013\Projects\Exam11April2014Morning\03.TheExplorer\bin\Debug\03.TheExplorer.exe.config
+c:\users\thegrudge\documents\visual studio 2013\Projects\Exam11April2014Morning\03.TheExplorer\bin\Debug\03.TheExplorer.exe
+c:\users\thegrudge\documents\visual studio 2013\Projects\Exam11April2014Morning\03.TheExplorer\bin\Debug\03.TheExplorer.pdb
+c:\users\thegrudge\documents\visual studio 2013\Projects\Exam11April2014Morning\03.TheExplorer\obj\Debug\03.TheExplorer.csprojResolveAssemblyReference.cache
+c:\users\thegrudge\documents\visual studio 2013\Projects\Exam11April2014Morning\03.TheExplorer\obj\Debug\03.TheExplorer.exe
+c:\users\thegrudge\documents\visual studio 2013\Projects\Exam11April2014Morning\03.TheExplorer\obj\Debug\03.TheExplorer.pdb

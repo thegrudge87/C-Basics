@@ -1,0 +1,5 @@
+c:\users\thegrudge\documents\visual studio 2013\Projects\Exam10April2014Evening\02.OddEvenSum\bin\Debug\02.OddEvenSum.exe.config
+c:\users\thegrudge\documents\visual studio 2013\Projects\Exam10April2014Evening\02.OddEvenSum\bin\Debug\02.OddEvenSum.exe
+c:\users\thegrudge\documents\visual studio 2013\Projects\Exam10April2014Evening\02.OddEvenSum\bin\Debug\02.OddEvenSum.pdb
+c:\users\thegrudge\documents\visual studio 2013\Projects\Exam10April2014Evening\02.OddEvenSum\obj\Debug\02.OddEvenSum.exe
+c:\users\thegrudge\documents\visual studio 2013\Projects\Exam10April2014Evening\02.OddEvenSum\obj\Debug\02.OddEvenSum.pdb
