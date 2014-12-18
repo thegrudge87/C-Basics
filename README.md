@@ -33,23 +33,24 @@ Things that I've done for my course "C# Basics" in Software University.
 
 
 
-**Exams**:
+**C# Basics Exams**:
 
-|Exam|Problem 1|Problem 2|Problem 3|Problem 4|Problem 5|
-|:---|:-------:|:-------:|:-------:|:-------:|:-------:|
-|C# Basics Exam 10 April 2014 Morning| [_] | [_] | [_] | [_] | [x] |
-|C# Basics Exam 10 April 2014 Evening| [_] | [_] | [_] | [_] | [_] |
-|C# Basics Exam 11 April 2014 Morning| [_] | [_] | [_] | [_] | [_] |
-|C# Basics Exam 11 April 2014 Evening| [_] | [_] | [_] | [_] | [_] |
-|C# Basics Exam 12 April 2014 Morning| [_] | [_] | [_] | [_] | [_] |
-|C# Basics Exam 12 April 2014 Evening| [_] | [_] | [_] | [_] | [_] |
-|C# Basics Exam 14 April 2014 Morning| [_] | [_] | [_] | [_] | [_] |
-|C# Basics Exam 14 April 2014 Evening| [_] | [_] | [_] | [_] | [_] |
-|C# Basics Exam 28 April 2014| [_] | [_] | [_] | [_] | [_] |
-|C# Basics Sample Exam May 2014| [_] | [_] | [_] | [_] | [_] |
-|C# Basics Exam 25 July 2014 Morning| [_] | [_] | [_] | [_] | [_] |
-|C# Basics Exam 25 July 2014 Evening| [_] | [_] | [_] | [_] | [_] |
-|C# Basics Exam 22 August 2014| [_] | [_] | [_] | [_] | [_] |
-|C# Basics Exam 26 August 2014| [_] | [_] | [_] | [_] | [_] |
-|C# Basics Exam 7 November 2014| [_] | [_] | [_] | [_] | [_] |
-|C# Basics Exam 8 November 2014| [_] | [_] | [_] | [_] | [_] |
+| No|Exam|Pr 1|Pr 2|Pr 3|Pr 4|Pr 5|Pr 6|Pr 7|Pr 8|
+|:--|:---|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 01|Exam 10 April 2014 Morning| [x] | [x] | [x] | [x] | [x] ||||
+| 02|Exam 10 April 2014 Evening| [x] | [x] | [x] | [x] | [x] ||||
+| 03|Exam 11 April 2014 Morning| [_] | [_] | [_] | [_] | [_] ||||
+| 04|Exam 11 April 2014 Evening| [_] | [_] | [_] | [_] | [_] ||||
+| 05|Exam 12 April 2014 Morning| [_] | [_] | [_] | [_] | [_] ||||
+| 06|Exam 12 April 2014 Evening| [_] | [_] | [_] | [_] | [_] ||||
+| 07|Exam 14 April 2014 Morning| [_] | [_] | [_] | [_] | [_] ||||
+| 08|Exam 14 April 2014 Evening| [_] | [_] | [_] | [_] | [_] ||||
+| 09|Exam 28 April 2014| [_] | [_] | [_] | [_] | [_] ||||
+| 10|Sample Exam May 2014| [_] | [_] | [_] | [_] | [_] ||||
+| 11|Exam 25 July 2014 Morning| [_] | [_] | [_] | [_] | [_] ||||
+| 12|Exam 25 July 2014 Evening| [_] | [_] | [_] | [_] | [_] ||||
+| 13|Exam 22 August 2014| [_] | [_] | [_] | [_] | [_] ||||
+| 14|Exam 26 August 2014| [_] | [_] | [_] | [_] | [_] ||||
+| 15|Exam 7 November 2014| [_] | [_] | [_] | [_] | [_] ||||
+| 16|Exam 8 November 2014| [_] | [_] | [_] | [_] | [_] ||||
+| 17|Lab November 2014 (Dec.03.14)|[x]|[x]|[x]|[x]|[x]|[x]|[x]|[x]|
